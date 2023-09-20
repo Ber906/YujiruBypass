@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
+		"url": "https://github.com/Ber906/YujiruBypass/issues"
 	},
 	"keywords": [
 		"bot",
@@ -24,9 +24,9 @@
 	"author": "BerBer",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
+		"url": "https://github.com/Ber906/YujiruBypass/issues"
 	},
-	"homepage": "https://github.com/ZiaRein/ZiaReinBypass/issues",
+	"homepage": "https://github.com/Ber906/YujiruBypass/issues",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
