@@ -1,8 +1,7 @@
 {
 	"name": "Yujiru",
 	"version": "2.0.1",
-        "credits": "BerBer Lovesyouumwa"
-	"description": "A simple Facebook Messenger Bot",
+	"credits": "Ber",
 	"main": "Yujiru.js",
 	"scripts": {
 		"start": "node index.js",
