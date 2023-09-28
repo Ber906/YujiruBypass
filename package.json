@@ -1,7 +1,7 @@
 {
 	"name": "Yujiru",
 	"version": "2.0.1",
-	"credits": 'Ber Sy',
+	"credits": "Ber-Sy,
 	"main": "Yujiru.js",
 	"scripts": {
 		"start": "node index.js",
